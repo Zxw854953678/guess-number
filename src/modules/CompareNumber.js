@@ -12,7 +12,6 @@ class CompareNumber {
       }
     });
 
-
     return `${result.A}A${result.B}B`;
   }
 }
